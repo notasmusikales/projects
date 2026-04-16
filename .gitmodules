@@ -1,0 +1,3 @@
+[submodule "ruta/del/submodulo"]
+	path = gestion_solicitudes
+	url = https://github.com/notasmusikales/Gestion_de_solicitudes.git
